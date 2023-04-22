@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LibroServicio;
+package Ejercicio01PooLibro;
 
-import Objeto.Libro;
+import Ejercicio01PooLibro.Libro;
 import java.util.Scanner;
 
 /**

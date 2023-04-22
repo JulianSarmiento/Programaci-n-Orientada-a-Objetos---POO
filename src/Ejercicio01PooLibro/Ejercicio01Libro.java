@@ -3,16 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio01poo;
-
-import LibroServicio.LibroServicio;
-import Objeto.Libro;
+package Ejercicio01PooLibro;
 
 /**
  *
  * @author Julian
  */
-public class Ejercicio01Poo {
+public class Ejercicio01Libro {
 
   /**
    * @param args the command line arguments
@@ -23,6 +20,8 @@ public class Ejercicio01Poo {
     Libro libro1 = service.crearLibro();
     
     service.mostrarLibro(libro1);
+    
+    
   }
   
 }
